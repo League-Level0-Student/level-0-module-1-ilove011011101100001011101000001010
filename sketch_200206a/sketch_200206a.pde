@@ -8,13 +8,14 @@
  }
  
  void draw() {
-   ellipse(800,800,500,500);
-   ellipse(850,850,550,550);
-  fill(0,255,229);
+   
  PImage face = loadImage("catt.jpg");
 image(face, 0, 0);
 face.resize(30,30);
 
+   ellipse(800,800,500,500);
+   ellipse(50,550,350,350);
+  fill(240, 0, 4);
    
    
    
