@@ -13,8 +13,8 @@
 image(face, 0, 0);
 face.resize(30,30);
 
-   ellipse(800,800,500,500);
-   ellipse(50,550,350,350);
+   ellipse(890,270,55,54);
+   ellipse(680,270,55,54);
   fill(240, 0, 4);
    
    
